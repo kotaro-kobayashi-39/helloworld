@@ -1,11 +1,11 @@
-ver = "0.14"
+ver = "0.15"
 
 
 class Member:
     def __init__(self, name, words=""):
         self.name = name
         self.words = words
-    
+
     def name(self):
         return self.name
 
