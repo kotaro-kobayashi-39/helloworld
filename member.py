@@ -16,8 +16,14 @@ mlist = []
 newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
+<<<<<<< HEAD
 ### 以下に自分を追加する ###
 newmember = Member("吉田 瑠希也", "よろしくお願いします！")
+=======
+
+### 以下に自分を追加する ###
+newmember = Member("大河原翔太", "よろしくお願いいたします。")
+>>>>>>> 9ae056577c236d5a048cd4b1be0a7715ed9d2063
 mlist.append(newmember)
 
 
