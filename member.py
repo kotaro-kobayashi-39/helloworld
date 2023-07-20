@@ -21,6 +21,13 @@ mlist.append(newmember)
 newmember = Member("吉田 瑠希也", "よろしくお願いします！")
 ### 以下に自分を追加する 
 
+
+### 以下に自分を追加する ###
+newmember = Member("ハルルルル", "松下です！")
+mlist.append(newmember)
+
+newmember = Member("房州優樹", "よろしくです！")
+mlist.append(newmember)
 newmember = Member("蜂屋 孝太郎", "アタオカです！")
 mlist.append(newmember)
 
@@ -29,6 +36,9 @@ newmember = Member("岡 拓未", "よろしくです！")
 mlist.append(newmember)
 newmember = Member("吉田 羅生", "よろしくです！")
 mlist.append(newmember)
+
+### 以下に自分を追加する ###
+
 newmember = Member("大河原翔太", "よろしくお願いいたします。")
 mlist.append(newmember)
 newmember = Member("房州優樹", "よろしくです！")
@@ -49,6 +59,7 @@ newmember = Member("房州優樹", "よろしくです！")
 mlist.append(newmember)
 newmember = Member("吉田 羅生", "よろしくです！")
 mlist.append(newmember)
+
 newmember = Member("渡邉　雄太", "よろしく！")
 mlist.append(newmember)
 
