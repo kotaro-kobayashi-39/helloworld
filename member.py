@@ -29,6 +29,7 @@ mlist.append(newmember)
 newmember = Member("大河原翔太", "よろしくお願いいたします。")
 mlist.append(newmember)
 
+
 # メンバー表示
 print("各メンバーから一言")
 print()
