@@ -18,8 +18,6 @@ newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
 ### 以下に自分を追加する ###
-newmember = Member("笹谷拓斗", "よろしく")
-mlist.append(newmember)
 
 newmember = Member("蜂屋 孝太郎", "アタオカです！")
 newmember = Member("岡 拓未", "よろしくです！")
@@ -52,7 +50,8 @@ newmember = Member("岩崎泰斗", "おなかへりました")
 mlist.append(newmember)
 newmember = Member("岸野航", "よろしくです！")
 mlist.append(newmember)
-
+newmember = Member("笹谷拓斗", "よろしく")
+mlist.append(newmember)
 # メンバー表示
 print("各メンバーから一言")
 print()
