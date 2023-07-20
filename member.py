@@ -16,6 +16,7 @@ mlist = []
 newmember = Member("江頭2:50", "エガちゃんです！")
 mlist.append(newmember)
 
+<<<<<<< Updated upstream
 ### 以下に自分を追加する ###
 newmember = Member("蜂屋 孝太郎", "アタオカです！")
 mlist.append(newmember)
@@ -32,6 +33,11 @@ mlist.append(newmember)
 newmember = Member("渡邉　雄太", "よろしく！")
 mlist.append(newmember)
 
+=======
+newmember = Member("岩崎泰斗", "おなかへりました")
+mlist.append(newmember)
+
+>>>>>>> Stashed changes
 
 # メンバー表示
 print("各メンバーから一言")
