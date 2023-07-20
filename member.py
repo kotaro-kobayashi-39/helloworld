@@ -1,4 +1,5 @@
-ver = "0.2"
+ver = "1.1"
+
 
 class Member:
     def __init__(self, name, words=""):
@@ -18,8 +19,58 @@ mlist.append(newmember)
 
 ### 以下に自分を追加する ###
 newmember = Member("吉田 瑠希也", "よろしくお願いします！")
+### 以下に自分を追加する 
+
+newmember = Member("蜂屋 孝太郎", "アタオカです！")
 mlist.append(newmember)
 
+### 以下に自分を追加する ###
+newmember = Member("岡 拓未", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("吉田 羅生", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("大河原翔太", "よろしくお願いいたします。")
+mlist.append(newmember)
+newmember = Member("房州優樹", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("吉田 羅生", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("蜂屋 孝太郎", "アタオカです！")
+mlist.append(newmember)
+newmember = Member("房州優樹", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("吉田 羅生", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("大河原翔太", "よろしくお願いいたします。")
+mlist.append(newmember)
+newmember = Member("渡邉 雄太", "よろしく！")
+mlist.append(newmember)
+newmember = Member("房州優樹", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("吉田 羅生", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("渡邉　雄太", "よろしく！")
+mlist.append(newmember)
+
+### 以下に自分を追加する ###
+newmember = Member("岸野航", "よろしくです！")
+mlist.append(newmember)
+
+
+newmember = Member("岩崎泰斗", "おなかへりました")
+mlist.append(newmember)
+newmember = Member("岩崎泰斗", "おなかへりました")
+mlist.append(newmember)
+newmember = Member("岸野航", "よろしくです！")
+mlist.append(newmember)
+newmember = Member("笹谷拓斗", "よろしく")
+mlist.append(newmember)
+newmember = Member("大河原翔太", "よろしくお願いいたします。")
+mlist.append(newmember)
+newmember = Member("渡邉　雄太", "よろしく！")
+mlist.append(newmember)
+newmember = Member("岩崎泰斗", "おなかへりました")
+mlist.append(newmember)
 
 # メンバー表示
 print("各メンバーから一言")
