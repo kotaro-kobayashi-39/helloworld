@@ -61,8 +61,7 @@ newmember = Member("岩崎泰斗", "おなかへりました")
 mlist.append(newmember)
 newmember = Member("岸野航", "よろしくです！")
 mlist.append(newmember)
-newmember = Member("小林虎太郎", "こばです！")
-mlist.append(newmember)
+
 
 # メンバー表示
 print("各メンバーから一言")
