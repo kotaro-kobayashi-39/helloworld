@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
 ver = "0.16"
 
-=======
-ver = "0.2"
->>>>>>> Stashed changes
 
 class Member:
     def __init__(self, name, words=""):
