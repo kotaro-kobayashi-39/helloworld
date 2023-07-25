@@ -1,4 +1,4 @@
-ver = "0.15"
+ver = "0.17"
 
 
 class Member:
@@ -60,6 +60,7 @@ mlist.append(newmember)
 
 newmember = Member("山口 凜々子", "こんにちは")
 mlist.append(newmember)
+
 newmember = Member("玉村　彩", "オーキャン参加します")
 mlist.append(newmember)
 
