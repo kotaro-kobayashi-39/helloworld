@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 ver = "0.16"
 
+=======
+ver = "0.2"
+>>>>>>> Stashed changes
 
 class Member:
     def __init__(self, name, words=""):
@@ -27,6 +31,8 @@ mlist.append(newmember)
 newmember = Member("吉田 羅生", "よろしくです！")
 mlist.append(newmember)
 
+newmember = Member("小林虎太郎", "よろしくです！")
+mlist.append(newmember)
 
 ### 以下に自分を追加する ###
 newmember = Member("小林虎太郎", "こばです！")
