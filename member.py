@@ -1,4 +1,4 @@
-ver = "1.0"
+ver = "0.9"
 
 
 class Member:
