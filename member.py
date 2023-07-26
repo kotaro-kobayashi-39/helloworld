@@ -1,4 +1,4 @@
-ver = "0.16"
+ver = "0.17"
 
 
 class Member:
@@ -40,14 +40,11 @@ mlist.append(newmember)
 newmember = Member("吉田 羅生", "よろしくです！")
 mlist.append(newmember)
 
-<<<<<<< HEAD
-=======
 newmember = Member("小林虎太郎", "よろしくです！")
 mlist.append(newmember)
 
 ### 以下に自分を追加する ###
 
->>>>>>> d7f3fd69d261131b50b578919fb9152511bcc2c6
 newmember = Member("大河原翔太", "よろしくお願いいたします。")
 mlist.append(newmember)
 
@@ -60,7 +57,6 @@ mlist.append(newmember)
 newmember = Member("岸野航", "よろしくです！")
 mlist.append(newmember)
 
-<<<<<<< HEAD
 newmember = Member("岩崎泰斗", "おなかへりました")
 mlist.append(newmember)
 
@@ -77,9 +73,7 @@ mlist.append(newmember)
 
 newmember = Member("小林虎太郎", "よろしくです")
 mlist.append(newmember)
-=======
 
->>>>>>> d7f3fd69d261131b50b578919fb9152511bcc2c6
 # メンバー表示
 print("各メンバーから一言")
 print()
