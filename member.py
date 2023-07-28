@@ -40,6 +40,11 @@ mlist.append(newmember)
 newmember = Member("吉田 羅生", "よろしくです！")
 mlist.append(newmember)
 
+newmember = Member("小林虎太郎", "よろしくです！")
+mlist.append(newmember)
+
+### 以下に自分を追加する ###
+
 newmember = Member("大河原翔太", "よろしくお願いいたします。")
 mlist.append(newmember)
 
